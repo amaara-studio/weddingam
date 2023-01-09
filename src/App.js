@@ -216,7 +216,7 @@ function App() {
             <p style={{fontFamily: 'MontserratExtraLight', color: '#FFFFFF', fontSize: 12, lineHeight: '18px', paddingTop: 20}}>Para el descanso de los niños y el disfrute<br />de los padres, este evento será solo para adultos.</p>
             <input type="text" className="input-confirm" name="invite-names" placeholder="Nombre(s) completo(s)" onChange={(e) => { editNames(e)}} style={{fontFamily: 'MontserratExtraLight', minWidth: '60%', marginTop: 30}}/>
             <p style={{fontFamily: 'MontserratExtraLight', color: '#FFFFFF', fontSize: 12, lineHeight: '14px', paddingTop: 10}}>Confirmar asistencia antes del <strong>11 de febrero</strong></p>
-            <p style={{fontFamily: 'MontserratExtraLight', color: '#FFFFFF', fontSize: 12, lineHeight: '14px', paddingTop: 6}}><strong>WhatsApp:</strong> Amanda 71049096 Marco 88065174</p>
+            <p style={{fontFamily: 'MontserratExtraLight', color: '#FFFFFF', fontSize: 12, lineHeight: '14px', paddingTop: 6}}><strong>WhatsApp:</strong> Amanda 71049096 · Marco 88065174</p>
             {!confirmacionOk && 
             <button className="confirm-button" onClick={submitInvites} style={{marginTop: 16}}>Confirmar</button>
             }
