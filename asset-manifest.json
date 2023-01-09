@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/weddingam/static/css/main.59e01fec.css",
+    "main.js": "/weddingam/static/js/main.c84f3fc6.js",
+    "static/js/787.ff5910d1.chunk.js": "/weddingam/static/js/787.ff5910d1.chunk.js",
+    "static/media/MRDS.mp3": "/weddingam/static/media/MRDS.b9d1000ffe95b9a7ada2.mp3",
+    "static/media/foto3.png": "/weddingam/static/media/foto3.26814251e9b1e8c2d5de.png",
+    "static/media/car2.png": "/weddingam/static/media/car2.428893bd6f64ccdb3aae.png",
+    "static/media/car3.png": "/weddingam/static/media/car3.93909ea0f86d3e921b14.png",
+    "static/media/foto1.png": "/weddingam/static/media/foto1.a59aa09c82cf1bf3d107.png",
+    "static/media/foto4.png": "/weddingam/static/media/foto4.b85cf6f1945a9c499b07.png",
+    "static/media/PlayfairDisplay-VariableFont_wght.ttf": "/weddingam/static/media/PlayfairDisplay-VariableFont_wght.54971b7248ded7d0d614.ttf",
+    "static/media/car1.jpg": "/weddingam/static/media/car1.40d4443ac46c1ea2aad8.jpg",
+    "static/media/PetitFormalScript-Regular.ttf": "/weddingam/static/media/PetitFormalScript-Regular.d6bb784a3d10f7de2c81.ttf",
+    "static/media/intro1.jpg": "/weddingam/static/media/intro1.303bde8001ec84b80080.jpg",
+    "static/media/Montserrat-ExtraLight.otf": "/weddingam/static/media/Montserrat-ExtraLight.bf201011a21349894765.otf",
+    "static/media/PlayfairDisplay-VariableFont_wght.woff2": "/weddingam/static/media/PlayfairDisplay-VariableFont_wght.116f2b82c710c1433ff6.woff2",
+    "static/media/foto2.jpg": "/weddingam/static/media/foto2.7f8d049d78f665e72392.jpg",
+    "static/media/PetitFormalScript-Regular.woff2": "/weddingam/static/media/PetitFormalScript-Regular.55d2fa76170337b3c5df.woff2",
+    "static/media/hoja2.png": "/weddingam/static/media/hoja2.c79b335eb6499f8a94d1.png",
+    "static/media/hoja3.png": "/weddingam/static/media/hoja3.58ed5a91d28b1db4b02b.png",
+    "static/media/hoja1.png": "/weddingam/static/media/hoja1.9b1c05c4048aa63fadff.png",
+    "static/media/Montserrat-ExtraLight.woff2": "/weddingam/static/media/Montserrat-ExtraLight.71bc4ca7ce271aec8fd0.woff2",
+    "static/media/Nexa-Light.ttf": "/weddingam/static/media/Nexa-Light.944a7d90327420ba9b14.ttf",
+    "static/media/Nexa-Light.woff2": "/weddingam/static/media/Nexa-Light.3eafa30bf4e34d4c98cf.woff2",
+    "index.html": "/weddingam/index.html",
+    "main.59e01fec.css.map": "/weddingam/static/css/main.59e01fec.css.map",
+    "main.c84f3fc6.js.map": "/weddingam/static/js/main.c84f3fc6.js.map",
+    "787.ff5910d1.chunk.js.map": "/weddingam/static/js/787.ff5910d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59e01fec.css",
+    "static/js/main.c84f3fc6.js"
+  ]
+}
