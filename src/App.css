@@ -1,0 +1,88 @@
+@font-face {
+  font-family: "MontserratExtraLight";
+  src: url("./fonts/Montserrat-ExtraLight.woff2") format("woff2"),
+       url("./fonts/Montserrat-ExtraLight.otf") format("otf");
+}
+
+@font-face {
+  font-family: "PetitFormalScript";
+  src: url("./fonts/PetitFormalScript-Regular.woff2") format("woff2"),
+       url("./fonts/PetitFormalScript-Regular.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: "Playfair";
+  src: url("./fonts/PlayfairDisplay-VariableFont_wght.woff2") format("woff2"),
+       url("./fonts/PlayfairDisplay-VariableFont_wght.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: "NexaLight";
+  src: url("./fonts/Nexa-Light.woff2") format("woff2"),
+       url("./fonts/Nexa-Light.ttf") format("ttf");
+}
+
+h2 {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.App-loading {
+  text-align: center;
+  max-width: 480px;
+  margin: 0 auto;
+}
+
+.App {
+  text-align: center;
+  max-width: 480px;
+  margin: 0 auto;
+  opacity: 0;
+}
+
+.App.fadeIn {
+  transition: opacity 1.3s;
+  opacity: 1;
+}
+
+.enter-button{
+  color: #FFF;
+  border:  1px solid #FFF;
+  background-color: transparent;
+  padding: 2px 16px 4px 16px;
+  border-radius: 12px;
+  font-family: 'Playfair';
+  font-size: 12px;
+  margin-left: -35px;
+}
+
+.input-confirm {
+  background-color: transparent;
+  color: #FFFFFF;
+  border: none;
+  border-bottom: 1px solid rgba(255,255,255,0.4);
+  padding: 3px 0;
+}
+.input-confirm:focus-visible {
+  outline: none;
+  border-bottom: 2px solid #FFFFFF;
+}
+
+.confirm-button{
+  color: #FFFFFF;
+  border:  1px solid #FFFFFF;
+  background-color: transparent;
+  padding: 2px 16px;
+  border-radius: 11px;
+  font-family: 'Playfair';
+  font-size: 10px;
+}
+
+.confirm-button:active{
+  background-color: rgba(255,255,255,0.3);
+}
