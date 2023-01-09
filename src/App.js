@@ -144,26 +144,26 @@ function App() {
         <img src={foto3} alt="Amanda & Marco" style={{width: '100%', display: 'block'}} />
         {/* countdown */}
         <div style={{position: 'relative', color: '#A29C98'}}>
-          <img src={hoja1} alt=" " style={{width: '50%', display: 'block', position: 'absolute', left: '0%', top: '0%'}} />
+          <img src={hoja1} alt=" " style={{width: '44%', display: 'block', position: 'absolute', left: '0%', top: '0%'}} />
           <img src={hoja2} alt=" " style={{width: '25%', display: 'block', position: 'absolute', right: '0%', bottom: '0%'}} />
           <div className="dat-time" style={{display: 'flex', justifyContent: 'center', color: '#A29C98', fontFamily: 'Playfair', paddingTop: 60}}>
             <div>
-              <div style={{fontSize: '25px', lineHeight: '23px', borderTop: '1px solid #A29C98', borderBottom: '1px solid #A29C98', padding: '4px 12px'}}>Sábado</div>
+              <div style={{fontSize: '23px', lineHeight: '21px', borderTop: '1px solid #A29C98', borderBottom: '1px solid #A29C98', padding: '4px 8px'}}>Sábado</div>
             </div>
             <div className="days">
-              <div style={{fontSize: '62px', lineHeight: '14px', padding: '0 10px'}}>11</div>
+              <div style={{fontSize: '56px', lineHeight: '14px', padding: '0 6px'}}>11</div>
             </div>
             <div>
-              <div style={{fontSize: '25px', lineHeight: '23px', borderTop: '1px solid #A29C98', borderBottom: '1px solid #A29C98', padding: '4px 12px'}}>Marzo</div>
+              <div style={{fontSize: '23px', lineHeight: '21px', borderTop: '1px solid #A29C98', borderBottom: '1px solid #A29C98', padding: '4px 8px'}}>Marzo</div>
             </div>
           </div>
           {/* ceremonia */}
           <h2 style={{fontFamily: 'Playfair', color: '#706F6F', fontSize: 16, fontWeight: 400, paddingTop: 40}}>Ceremonia Religiosa</h2>
-          <p style={{fontFamily: 'NexaLight', fontSize: '14px', lineHeight: '16px', fontWeight:600, padding: '4px 0'}}>3:30pm</p>
+          <p style={{fontFamily: 'MontserratExtraLight', fontSize: '14px', lineHeight: '16px', fontWeight:600, padding: '4px 0'}}>3:30pm</p>
           <p style={{fontFamily: 'MontserratExtraLight', fontSize: 12, lineHeight: '16px'}}>Templo de la diaconía de<br />Sábana Larga, Atenas</p>
           {/* recepción */}
           <h2 style={{fontFamily: 'Playfair', color: '#706F6F', fontSize: 16, fontWeight: 400, paddingTop: 40}}>Recepción</h2>
-          <p style={{fontFamily: 'NexaLight', fontSize: '14px', lineHeight: '16px', fontWeight:600, padding: '4px 0'}}>5:00pm</p>
+          <p style={{fontFamily: 'MontserratExtraLight', fontSize: '14px', lineHeight: '16px', fontWeight:600, padding: '4px 0'}}>5:00pm</p>
           <p style={{fontFamily: 'MontserratExtraLight', fontSize: 12, lineHeight: '16px'}}>Hacienda VargasÚ,<br />Río Grande de Atenas</p>
           {/* countdown */}
           <div className="counter" style={{display: 'flex', justifyContent: 'center', color: '#A29C98', padding: '70px 0'}}>
