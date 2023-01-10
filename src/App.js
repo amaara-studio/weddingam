@@ -86,7 +86,7 @@ function App() {
         Host: "smtp.elasticemail.com",
         Username: "wedd.dani.jorge@gmail.com",
         Password: "B6E151D762ABEC66E74C2A6E2F1A7D324AAD",
-        To: 'danirojas13.07@gmail.com',
+        To: 'amandacb01@gmail.com',
         From: "wedd.dani.jorge@gmail.com",
         Subject: "[Confirmacion Asistencia] Boda Amanda y Marco",
         Body: body,
@@ -224,7 +224,7 @@ function App() {
               <p style={{fontFamily: 'MontserratExtraLight', color: '#FFFFFF', fontSize: 12, marginTop: 16}}><strong>Confirmación enviada. Gracias!</strong></p>
             }
             <p style={{fontFamily: 'MontserratExtraLight', color: '#FFFFFF', fontSize: 12, lineHeight: '14px', paddingTop: 20}}><strong>Código de vestimenta formal</strong></p>
-            <p style={{fontFamily: 'NexaLight', color: '#FFFFFF', fontSize: 8, lineHeight: '14px', paddingTop: 6}}>INVITACIÓN PERSONAL E INSTRANSFERIBLE</p>
+            <p style={{fontFamily: 'NexaLight', color: '#FFFFFF', fontSize: 8, lineHeight: '14px', paddingTop: 6}}>INVITACIÓN PERSONAL E INTRANSFERIBLE</p>
           </div>
         </div>
       </div>
